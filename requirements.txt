@@ -6,3 +6,4 @@ scikit-learn
 pandas==1.2.4
 tensorflow
 torch
+imutils
