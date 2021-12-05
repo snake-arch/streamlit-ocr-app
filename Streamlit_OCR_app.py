@@ -1,4 +1,4 @@
-path_to_model = 'C:/Users/maind/Desktop/eh/OCRmodel.h5'
+path_to_model = 'OCRmodel.h5'
 from PIL import Image, ImageEnhance
 import streamlit as st
 import warnings
