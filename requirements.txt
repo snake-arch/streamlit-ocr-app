@@ -1,0 +1,7 @@
+streamlit==1.2.0
+numpy==1.20.1
+opencv-python
+Pillow==8.2.0
+scikit-learn
+pandas==1.2.4
+tensorflow
